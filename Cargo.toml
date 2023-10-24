@@ -20,7 +20,7 @@ doctest = false
 test = false
 
 [dependencies]
-rpmalloc-sys = { version = "0.2.2", path = "rpmalloc-sys", features = ["preload"] }
+rpmalloc-sys = { version = "0.2.2", path = "rpmalloc-sys" }
 
 [features]
 default = []
